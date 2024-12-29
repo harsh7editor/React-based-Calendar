@@ -1,4 +1,13 @@
 # React-based-Calendar
+The application will include:
+
+· An Admin Module for setting up companies and communication parameters.
+
+· A User Module for visualizing, managing, and performing communication tasks.
+
+· A Reporting and Analytics Module for actionable insights (optional).
+
+It is critical to emphasize usability, clarity, and efficient data handling
 
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
